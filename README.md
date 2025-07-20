@@ -10,8 +10,7 @@ Predicting house prices is a classic regression problem in the field of machine 
 
 ## Dataset
 
-- Source: [Specify your data source, e.g., Kaggle or another repository]
-- Features: [List key features such as area, number of bedrooms, location, etc.]
+- Source: [Kaggle]
 - Target: House sale price
 
 ## Data Preprocessing
