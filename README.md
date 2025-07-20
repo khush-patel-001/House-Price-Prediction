@@ -52,7 +52,7 @@ This project demonstrates a comprehensive approach to house price prediction usi
 
 ## Requirements
 
-- Python 3.x
+- Python
 - NumPy
 - Pandas
 - Matplotlib
