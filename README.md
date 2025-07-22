@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The "House Price Prediction" project aims to accurately estimate housing prices using machine learning techniques. This end-to-end solution leverages powerful Python libraries including NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn, to analyze and model real estate data. The highlight of this project is the use of the XGBoost Regressor algorithm, achieveda high R² score of **91.44%**, demonstrating excellent predictive performance.
+The "House Price Prediction" project aims to accurately estimate housing prices using machine learning techniques. This end-to-end solution leverages powerful Python libraries including NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn, to analyze and model real estate data. The highlight of this project is the use of the XGBoost Regressor algorithm, achieved high R² score of **91.44%**, demonstrating excellent predictive performance.
 
 ## Introduction
 
